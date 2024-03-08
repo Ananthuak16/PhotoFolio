@@ -1,0 +1,29 @@
+/* Navbar Styles */
+.navbar {
+    background-color: #333; /* Set your desired background color */
+    padding: 10px; /* Adjust padding as needed */
+    display: flex;
+    justify-content: flex-start; /* Align content to the left side */
+    align-items: center;
+  }
+  
+  /* Logo Styles */
+  .navbar img {
+    max-width: 100%; /* Ensure the image does not exceed its container */
+    height: 50px; /* Maintain aspect ratio */
+  }
+  img{
+    width: 50px;
+  }
+  .font{
+    color: aliceblue;
+  }
+
+  /* Navbar.css */
+.back-icon {
+  font-size: 2em;
+  color: #f7f3f3; /* Add your desired color */
+  cursor: pointer;
+  margin-right: 10px; /* Adjust the margin as needed */
+  /* Add any additional styling properties as needed */
+}
